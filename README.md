@@ -1,2 +1,1 @@
-# Prepcourse-Henry1
-este es un repositorio de prueba
+Este proyecto es un nuevo repositorio, avance para un nuevo programador de Henry
